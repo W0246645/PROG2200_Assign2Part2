@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BalanceArgs.cs" />
+    <Compile Include="BalanceLogger.cs" />
+    <Compile Include="BalanceWatcher.cs" />
+    <Compile Include="PiggyBank.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
